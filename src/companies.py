@@ -2,7 +2,6 @@
 Company universe for the retail/consumer earnings sentiment project.
 Edit this list to add/remove companies or quarters as you go.
 """
-
 COMPANIES = [
     {"ticker": "TGT", "name": "Target Corporation", "segment": "big_box"},
     {"ticker": "WMT", "name": "Walmart Inc.", "segment": "big_box"},
@@ -16,10 +15,9 @@ COMPANIES = [
     {"ticker": "CMG", "name": "Chipotle Mexican Grill", "segment": "restaurant"},
 ]
 
-# Fill this in as you collect transcripts — one row per company-quarter you have data for.
-# Example:
-# TRANSCRIPT_LOG = [
-#     {"ticker": "TGT", "quarter": "Q1_2025", "call_date": "2025-05-21", "file": "TGT_Q1_2025.txt"},
-# ]
-TRANSCRIPT_LOG = ["ticker": "TGT", "quarter": "Q1_2026", "call_date": "2026-05-20", "file": "TGT_Q1_2026.txt"},
-   ]
+TRANSCRIPT_LOG = [
+    {"ticker": "TGT", "quarter": "Q1_2026", "call_date": "2026-05-20", "file": "TGT_Q1_2026.txt"},
+    {"ticker": "TGT", "quarter": "Q4_2025", "call_date": "2026-03-03", "file": "TGT_Q4_2025.txt"},
+    {"ticker": "TGT", "quarter": "Q3_2025", "call_date": "2025-11-19", "file": "TGT_Q3_2025.txt"},
+    {"ticker": "TGT", "quarter": "Q1_2025", "call_date": "2025-05-21", "file": "TGT_Q1_2025.txt"},
+]
