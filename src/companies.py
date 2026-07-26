@@ -35,4 +35,7 @@ TRANSCRIPT_LOG = [
     {"ticker": "TJX", "quarter": "Q4_FY26", "call_date": "2026-02-25", "file": "TJX_Q4_FY26.txt"},
     {"ticker": "TJX", "quarter": "Q1_FY27", "call_date": "2026-05-21", "file": "TJX_Q1_FY27.txt"},
     {"ticker": "TJX", "quarter": "Q3_FY26", "call_date": "2025-11-19", "file": "TJX_Q3_FY26.txt"},
+    {"ticker": "ROST", "quarter": "Q1_2026", "call_date": "2026-05-21", "file": "ROST_Q1_2026.txt"},
+    {"ticker": "ROST", "quarter": "Q4_2025", "call_date": "2026-03-03", "file": "ROST_Q4_2025.txt"},
+    {"ticker": "ROST", "quarter": "Q3_2026", "call_date": "2025-11-20", "file": "ROST_Q3_2026.txt"},
 ]
