@@ -44,4 +44,7 @@ TRANSCRIPT_LOG = [
     {"ticker": "SBUX", "quarter": "Q4_FY25", "call_date": "2025-10-29", "file": "SBUX_Q4_FY25.txt"},
     {"ticker": "SBUX", "quarter": "Q1_FY26", "call_date": "2026-01-28", "file": "SBUX_Q1_FY26.txt"},
     {"ticker": "SBUX", "quarter": "Q2_FY25", "call_date": "2025-04-29", "file": "SBUX_Q2_FY25.txt"},
+    {"ticker": "CMG", "quarter": "Q4_2025", "call_date": "2026-02-03", "file": "CMG_Q4_2025.txt"},
+    {"ticker": "CMG", "quarter": "Q1_2026", "call_date": "2026-04-29", "file": "CMG_Q1_2026.txt"},
+    {"ticker": "CMG", "quarter": "Q3_2025", "call_date": "2025-10-29", "file": "CMG_Q3_2025.txt"},
 ]
