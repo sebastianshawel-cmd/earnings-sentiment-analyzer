@@ -38,4 +38,7 @@ TRANSCRIPT_LOG = [
     {"ticker": "ROST", "quarter": "Q1_2026", "call_date": "2026-05-21", "file": "ROST_Q1_2026.txt"},
     {"ticker": "ROST", "quarter": "Q4_2025", "call_date": "2026-03-03", "file": "ROST_Q4_2025.txt"},
     {"ticker": "ROST", "quarter": "Q3_2026", "call_date": "2025-11-20", "file": "ROST_Q3_2026.txt"},
+    {"ticker": "NKE", "quarter": "Q3_FY26", "call_date": "2026-03-31", "file": "NKE_Q3_FY26.txt"},
+    {"ticker": "NKE", "quarter": "Q1_FY26", "call_date": "2025-09-30", "file": "NKE_Q1_FY26.txt"},
+    {"ticker": "NKE", "quarter": "Q4_FY25", "call_date": "2025-06-26", "file": "NKE_Q4_FY25.txt"},
 ]
