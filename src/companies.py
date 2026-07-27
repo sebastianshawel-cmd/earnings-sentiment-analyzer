@@ -41,4 +41,7 @@ TRANSCRIPT_LOG = [
     {"ticker": "NKE", "quarter": "Q3_FY26", "call_date": "2026-03-31", "file": "NKE_Q3_FY26.txt"},
     {"ticker": "NKE", "quarter": "Q1_FY26", "call_date": "2025-09-30", "file": "NKE_Q1_FY26.txt"},
     {"ticker": "NKE", "quarter": "Q4_FY25", "call_date": "2025-06-26", "file": "NKE_Q4_FY25.txt"},
+    {"ticker": "SBUX", "quarter": "Q4_FY25", "call_date": "2025-10-29", "file": "SBUX_Q4_FY25.txt"},
+    {"ticker": "SBUX", "quarter": "Q1_FY26", "call_date": "2026-01-28", "file": "SBUX_Q1_FY26.txt"},
+    {"ticker": "SBUX", "quarter": "Q2_FY25", "call_date": "2025-04-29", "file": "SBUX_Q2_FY25.txt"},
 ]
