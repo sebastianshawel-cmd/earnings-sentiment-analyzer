@@ -42,12 +42,13 @@ README.md
 ```
 
 ## Status
-- [ ] Transcripts collected
-- [ ] Lexicon scoring run
+- [x] Transcripts collected
+- [x] Lexicon scoring run
 - [ ] LLM scoring run
-- [ ] Price data pulled
-- [ ] Analysis + charts complete
-- [ ] Writeup finished
+- [x] Price data pulled
+- [x] Analysis + charts complete
+- [x] Writeup finished
 
 ## Findings
-(fill in once analysis is done — include the honest result, even if it's a null finding)
+Across 31 earnings calls from 10 retail/consumer companies, lexicon-based sentiment showed only a weak correlation with 1-day forward returns (r = 0.157), and virtually no correlation at 5-day (r = 0.048) or 30-day (r = 0.047) horizons. Excluding three high-volatility outlier tickers (Ross Stores, Nike, Chipotle) reduced the 1-day correlation to near zero (r = 0.002), suggesting the modest overall relationship was largely driven by a small number of dramatic single-quarter reactions rather than a consistent pattern. This is broadly consistent with efficient-market behavior for large, heavily-covered companies — by the time these calls happen, much of the "surprise" has likely already been priced in through pre-call guidance and analyst previews.
+
